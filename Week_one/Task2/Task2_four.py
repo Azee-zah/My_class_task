@@ -1,0 +1,5 @@
+Nigerian_dish1 = input("What Nigerian Food is popular here: ")
+The_state1 = input("what state is it here? ")
+Nigerian_dish2 = input("What Nigerian Food is common here: ")
+The_state2 = input("What state is this common at: ")
+print(f"{Nigerian_dish1}\t{The_state1}\n{Nigerian_dish2}\t{The_state2}")
